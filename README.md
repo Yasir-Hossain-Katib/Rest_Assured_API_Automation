@@ -59,10 +59,6 @@ Execute the tests using TestNG:
 **Step 4: Analyze the Results**
 The test results will show detailed logs and validations for each API request and response.
 
-## Postman Collection Documentation
-
-https://documenter.getpostman.com/view/39820937/2sAYQcDpkp
-
 ## Test Case
 
 https://docs.google.com/spreadsheets/d/1J46yH8MItgMmvrAKKzzJ02qTye8Gbj70CHRdIvDZHNg/edit?usp=sharing
